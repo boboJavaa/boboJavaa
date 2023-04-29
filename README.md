@@ -17,7 +17,7 @@
 <br />
 
 
-### 👨‍💻 Software Development Projects:
+### 👨‍💻 Projects:
 - [Etch a sketch](https://bobojavaa.github.io/Etch-A-Sketch/)
-- [Slot machine](https://github.com/boboJavaa/Slot-Machine)
+- [Slot machine](https://github.com/boboJavaa/Slot-Machine) 
 - [Hangman game](https://github.com/boboJavaa/hangman_game)
