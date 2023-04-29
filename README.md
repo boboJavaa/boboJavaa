@@ -1,8 +1,7 @@
-# 🖥️ Nicholas 
+# 🚀 Nicholas 
 
 **`Self taught developer and passionate about coding!`**
 
----
 
 ### 🧰 Languages and Tools
 
@@ -17,3 +16,8 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+
+### 👨‍💻 Software Development Projects:
+- [Etch a sketch](https://bobojavaa.github.io/Etch-A-Sketch/)
+- [Slot machine](https://github.com/boboJavaa/Slot-Machine)
+- [Hangman game](https://github.com/boboJavaa/hangman_game)
