@@ -18,6 +18,7 @@
 
 
 ### 👨‍💻 Projects:
-- [Etch a sketch](https://bobojavaa.github.io/Etch-A-Sketch/)
-- [Slot machine](https://github.com/boboJavaa/Slot-Machine) 
-- [Hangman game](https://github.com/boboJavaa/hangman_game)
+- [Etch a sketch](https://bobojavaa.github.io/Etch-A-Sketch/)  <img align="center" alt="JavaScript" width="15px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="center" alt="HTML" width="15px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img align="center" alt="CSS" width="15px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+- [Calculator](https://bobojavaa.github.io/Calculator/) <img align="center" alt="JavaScript" width="15px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="center" alt="HTML" width="15px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img align="center" alt="CSS" width="15px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+- [Slot machine](https://github.com/boboJavaa/Slot-Machine) <img align="center" alt="Python" width="15px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+- [Hangman game](https://github.com/boboJavaa/hangman_game) <img align="center" alt="Python" width="15px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
